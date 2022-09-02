@@ -1,26 +1,26 @@
-## First Name Last Name
+## Liam Horsnell
 
-### Term Year 
+### fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Course 1 Analytic Geometry and Calculus 1
 
-- Course 2
+- Course 2 Introduction to Computation and Programming
 
-- Course 3
+- Course 3 Introduction to Data Science
 
-- Course 4
+- Course 4 Python for Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- video games
 
-- Thing 2
+- swimming
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- technology
 
 ***
 
